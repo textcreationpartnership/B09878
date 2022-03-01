@@ -1,0 +1,485 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alexicacvs spirit of salt of the vvorld, which vulgarly prepair'd is call'd the spirit of salt., or, The transcendent virtue of the true spirit of salt long look'd for, and now philosophically prepared and purified from all hurtfull or coroding qualities, far beyond any thing yet known to the world : being both safe and pleasant for the use of all men, women, and children / by Constantine Rhodocanaces.</title>
+            <author>Rhodokanakēs, Kōnstantinos, 1635-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09878</idno>
+            <idno type="STC">Wing R1332A</idno>
+            <idno type="STC">ESTC R218433</idno>
+            <idno type="EEBO-CITATION">64551679</idno>
+            <idno type="OCLC">ocm 64551679</idno>
+            <idno type="VID">184764</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184764)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Alexicacvs spirit of salt of the vvorld, which vulgarly prepair'd is call'd the spirit of salt., or, The transcendent virtue of the true spirit of salt long look'd for, and now philosophically prepared and purified from all hurtfull or coroding qualities, far beyond any thing yet known to the world : being both safe and pleasant for the use of all men, women, and children / by Constantine Rhodocanaces.</title>
+                  <author>Rhodokanakēs, Kōnstantinos, 1635-1689.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>This fifth edition is enlarged with some new testimonies, advertisements and rare medicaments by His Majesties special direction and allowance.</edition>
+               </editionStmt>
+               <extent>[8], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>In the year 1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First word transliterated from Greek.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salt --  Therapeutic use --  Early works to 1800.</term>
+               <term>Materia medica --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184764:1"/>
+            <p>ALEXICACVS Spirit of Salt of the VVorld, Which vulgarly prepair'd is call'd THE SPIRIT OF SALT. OR The tranſcendent Virtue of the true SPIRIT of SALT</p>
+            <p>
+               <hi>Long look'd for,</hi> And now Philoſophically prepared and purified from all hurtfull or Coroding Qualities, far beyond any thing yet known to the World: being both ſafe and pleaſant for the uſe of all Men, Women, and Children.</p>
+            <p>By CONSTANTINE RHODOCANACES. <hi>Grecian</hi> of the Isle of <hi>Chios,</hi> and one of his Majeſty's Chymiſts; who is the ſole authour and inventor of this Spirit.</p>
+            <p>Living In <hi>LONDON,</hi> next door to the <hi>Three Kings Inne</hi> in <hi>Southampton Buildings,</hi> near the <hi>Kings Gate</hi> in <hi>Holborn.</hi>
+            </p>
+            <p>Where al manner of Chymical preparations are carried on without any ſophiſtication or abuſes whatſo<g ref="char:EOLhyphen"/>ever</p>
+            <p>
+               <hi>This fifth Edition is enlarged with ſome new Teſtimonies, Advertiſe<g ref="char:EOLhyphen"/>ments and rare Medicaments.</hi>
+            </p>
+            <p>
+               <hi>By His Majeſties ſpecial Direction and Allowance.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>London,</hi> Printed by I. R. in the Year 1667.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:184764:2"/>
+            <pb facs="tcp:184764:2" rendition="simple:additions"/>
+            <pb facs="tcp:184764:3"/>
+            <pb facs="tcp:184764:3"/>
+            <pb facs="tcp:184764:4" rendition="simple:additions"/>
+            <pb facs="tcp:184764:4"/>
+            <head>To the Reader</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving promis'd (as is to be ſeen in the following A<g ref="char:EOLhyphen"/>pologie to his Sacred Majeſtie) to give a farther re<g ref="char:EOLhyphen"/>lation of the excellent virtues, and uſe of the <hi>Spirit of Salt of the World,</hi> confirm'd by ſundry experi<g ref="char:EOLhyphen"/>ments here in <hi>England:</hi> accordingly <hi>I</hi> have here done it: (though omitting many experiments to prevent tediouſneſs) which <hi>I</hi> call <hi>The Spirit of Salt of the World,</hi> to difference it from that which is commonly called <hi>Spirit of Salt.</hi> For many hearing what great ſucceſs my <hi>Spirit of Salt</hi> hath had, they concluded that which was vulgarly call'd ſo, would have the ſame. The contrary to which is found: for not long ſince a ſick perſon making uſe of the common <hi>Spirit of Salt</hi> bought at the Apothecaries, dyed upon the taking of it. This relation <hi>I</hi> re<g ref="char:EOLhyphen"/>ceived from the Right Worshipful S<hi rend="sup">r</hi> 
+               <hi>Tho. Middleton,</hi> ſeveral other witneſſes atteſting the ſame. This relation charitie to<g ref="char:EOLhyphen"/>wards my Neighbour, commandeth me to make publicke that hereafter greater caution may be had in uſing the vulgar cor<g ref="char:EOLhyphen"/>roſive <hi>Spirit of Salt</hi>-inſtead whereof <hi>I</hi> make publick this, which is moſt innocent, and healthfull, as may be ſeen in the follow<g ref="char:EOLhyphen"/>ing teſtimonies.</p>
+            <p>Further Reader take notice, that in this fith Edition, there are ſeveral Teſtimonies added of Doctors in Phyſick and other learned men: touching the virtue and excellencie of this <hi>Spirit of Salt,</hi> which is done for the greater ſatisfaction of the buyer, who is to give ſix pence for it.</p>
+            <p>There are ſome who pretend to make this Spirit according to my preparation, wherefore <hi>I</hi> think good to let the world know, that as yet this Secret hath not been communicated to a<g ref="char:EOLhyphen"/>ny; nor muſt it be, it being for the preſent ſo ordered by his Ma<g ref="char:EOLhyphen"/>jeſtie, who if he shall be pleaſed to allow the communication of it for the publick good, I shall then publickly declare the Perſon that shall receive from me the Philoſophical way of preparing it.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:184764:5"/>
+            <head>The Apology of the Author which he preſented to his Majeſty, and now hath made publick for the ſatisfaction of others.</head>
+            <opener>
+               <salute>May it pleaſe your moſt excellent Majeſty;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the ample teſtimony of Sir. <hi>Thomas Mid<g ref="char:EOLhyphen"/>dleton</hi> lately tendred to your Sacred Majeſtie touching my preparation of the <hi>Spirit of Salt,</hi> as to the difference thereof from that vulgarly prepared, might receive ſome farther confirmation: And that that worthy perſons commendation of me in that reſpect might obtain at leaſt your Majesties excuſe. It hath happily been ſo ordered, that the eminent virtues of the ſaid Spirit ſhould approve themſelves to the world by ſeveral experiments, a few of which out of many, leſt I should be tedious, taken from Patients own Letters, and from ſuch as have made their obſervations of it upon themſelves and others, I do here humbly ſubmit unto your Majeſties inſpection, having added hereunto many teſtimonies, if perhaps by ſuch means the pre<g ref="char:EOLhyphen"/>paration of this excellent medicine, eſpecially in Scorbutick diſtempers (familiar as hath been obſerved unto your Majeſ<g ref="char:EOLhyphen"/>tie's, Kingdomes,) may be admitted, and receive no diſcou<g ref="char:EOLhyphen"/>ragement from thoſe who are pleaſed at preſent to think other<g ref="char:EOLhyphen"/>wiſe of it than experience hath evinced to be true.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:184764:5"/>
+            <head>Testimonies touching the <hi>Spirit of Salt,</hi> as it is perpared by Mr. <hi>Conſtantine Rhodocanaces.</hi>
+            </head>
+            <p>(I had intended to have added to this fifth Edition of my Book, many new teſtimonies, which have been brought unto me from ſeveral perſons; but in regard I find that this my <hi>Spirit</hi> is in the judgment almoſt of all men received with a ſingular commen<g ref="char:EOLhyphen"/>dation, I do forbear to create any unneceſſary trouble to my Rea<g ref="char:EOLhyphen"/>ders: But yet there being ſome new teſtimonies of great conſequence I cannot let them paſs, but have added them in <hi>p. 6.7. &amp;c.</hi> that the truth may be affirmed, It's virtues more illuſtrated, and e<g ref="char:EOLhyphen"/>very one with more ſecuritie and cheerfulneſs may uſe it as a remedie that caſes and cures all griefs and maladies.)</p>
+            <div type="testimonies">
+               <head>The old Teſtimonies.</head>
+               <p n="1">1 M<hi rend="sup">r</hi>. <hi>Lyne</hi> Gentleman, living in <hi>Alesford</hi> being ſick of the Stone in the Reins, was cured by the <hi>Spirit of Salt,</hi> and he had a ſon, which being eight years old, could neither ſtand nor go; and by advice, he gave to his ſon every day ſome drops of the <hi>Spirit of Salt,</hi> and in ſix weeks time, he was brought to his Limbs and ſtrength, that to the admiration of all about him, he could goe very well.</p>
+               <p n="2">2. Mr. <hi>Francis Cotton</hi> of <hi>Gadſden</hi> in the County of <hi>Hert<g ref="char:EOLhyphen"/>ford,</hi> and ſervant to her Majeſtie the Queen Mother, was for 18. years together troubled with the Scurvy, which ſo far had wrought upon him, that from head to foot he was ex<g ref="char:EOLhyphen"/>tremly diſtempered both with a lightneſs in his head and pain throughout all his body that he could neitherſteep, nor takeany natural reſt; but by the <hi>Spirit of Salt,</hi> with the mixture of other medicaments prepared by me he was perſectly cured in the ſpace of two months.</p>
+               <p n="3">
+                  <pb n="2" facs="tcp:184764:6"/>
+3. <hi>Iane Shepherd</hi> living at the <hi>blew boar</hi> in S. <hi>Giles,</hi> being very much troubled with the Stone in the Kidneys for ſix years, ſo that ſhe could not riſe, and at length was given up for one incurable, by the uſe of the <hi>Spirit of Salt,</hi> mixed with <hi>aqua coelica,</hi> (of which water we have ſpoken in the end of this book) was altogether freed from her diſtemper, void<g ref="char:EOLhyphen"/>ing three ſpoonfulls of gravel, and two ſtones of the bigneſs of a peaſe.</p>
+               <p n="4">4. <hi>Ioſeph Hooper</hi> Confectioner, living on <hi>Ludgate</hi>-Hill being troubled for the ſpace of two years, with the Tooth-ach, was cured by only taking the <hi>Spirit of Salt.</hi>
+               </p>
+               <p n="5">5. <hi>Elias Price,</hi> living at the ſign of the <hi>three Kings</hi> by <hi>Southampton</hi> buildings, was dangerously ſick, and ſo full of pain all over his body, that he cryed out with great excla<g ref="char:EOLhyphen"/>mations, and alſo his breath being almoſt ſtopt, and his ſto<g ref="char:EOLhyphen"/>mack out of order; ſo that all accounted him as a dead man, was by the bleſſing of God, on this <hi>Spirit of Salt</hi> and <hi>Aqua coelica,</hi> cured in two dayes.</p>
+            </div>
+            <div type="testimony">
+               <head>Mr. <hi>Richard Morton</hi> teſtifieth upon his own obſer<g ref="char:EOLhyphen"/>vation as followeth.</head>
+               <p n="6">6. That a Miniſter in <hi>Lincoln ſhire,</hi> born and bred in that County, having been Scorbutical from his Child<g ref="char:EOLhyphen"/>hood, and at the 35. year of his age grievously afflicted, in<g ref="char:EOLhyphen"/>ſomuch as from head to foot, the ſymptomes of that diſtem<g ref="char:EOLhyphen"/>per were manifeſt upon him, and having in vain attended upon the Country Phyſitians for his Cure, did at length be<g ref="char:EOLhyphen"/>take himſelf to the uſe of a certain Diaphoretick Powder of the compoſition of the ſaid Mr. <hi>Rhodocanaces,</hi> and after thrice uſing thereof with this <hi>Spirit of Salt,</hi> drinking there<g ref="char:EOLhyphen"/>of every morning a convenient Doſe as he was directed, for the ſpace of a month, he recovered his health unto admiration.</p>
+               <p n="7">
+                  <pb n="3" facs="tcp:184764:6" rendition="simple:additions"/>
+7. That another Miniſter of <hi>Worceſter-shire</hi> having been ſorely afflicted with the Scurvy for the ſpace of ſix or ſeven moneths, ſo as he had little or no ſtrength left, eſpecially in the lower parts of his body, was yet by the uſe of this <hi>Spirit</hi> within a ſhort time delivered from that languor and weakneſs of his parts, and all other ſymptomes of his Scorbutick diſtemper.</p>
+               <p n="8">8. That a Countrey-man of the ſame County, ſick of an inveterate Head-ach, which afflicted him at certain times every day, having been left by the Phyſitians, and in their opinion neer death, did after a purgation, once and again preſcribed, make uſe of this <hi>Spirit of Salt</hi> for the ſpace of a week, or thereabouts, and was thereby ſuddenly and ſtrangly recovered.</p>
+               <p n="9">9. That a Gentlewoman being greatly obſtructed in her Lungs by the ſpace of a moneth or more, and thereby ve<g ref="char:EOLhyphen"/>ry much weakned, as alſo through Hyſtericall paſſions ve<g ref="char:EOLhyphen"/>frequently brought almoſt unto death, having uſed many other Medicines, to no purpoſe, was by the uſe of this <hi>Spi<g ref="char:EOLhyphen"/>ritof Salt</hi> within a ſhort time recovered, and delivered from all the ill ſymptomes before recited.</p>
+               <p>Theſe things Mr. <hi>Morton</hi> teſtifieth, as he expreſſeth it willingly and upon knowledge.</p>
+            </div>
+            <div type="testimony">
+               <head>The teſtimony of C. <hi>Sankey,</hi> Lond. <hi>Auguſt 1663.</hi> as followeth.</head>
+               <p n="10">10. That labouring under a continual Feaver for ſome dayes, and ſorely afflicted with obſtructions, inſomuch that there was juſt fear of a Jaundiſe, he by the uſe of this <hi>Spirit of Salt,</hi> prepared by Mr. <hi>Rhodocanaces,</hi> and taking thereof to the third or fourrh time, did forthwith recover to his former condition of health.</p>
+               <p>This teſtimony Mr. <hi>Sankey</hi> gave under his hand upon his own experience therein, deſiring to ſerve for the profit of others.</p>
+            </div>
+            <div type="testimony">
+               <pb n="4" facs="tcp:184764:7"/>
+               <head>The teſtimony of Samuel <hi>Rand</hi> under his own hand, Lond. <hi>June. 1663.</hi> as followeth.</head>
+               <p n="11">11. That being ſick of a Quartan Ague for almoſt nine moneths together, and uſing other Medicines to no ef<g ref="char:EOLhyphen"/>fect, he, by the uſe of this <hi>Spirit of Salt</hi> prepared by Me and exhibited by ten drops in Poſſet drink three or four times, was delivered from his Ague.</p>
+            </div>
+            <div type="testimony">
+               <head>The teſtimony of Mr. <hi>Ionas Moor</hi> as followeth.</head>
+               <p n="12">12. That he going forth for <hi>Tangier</hi> as Commiſſioner for overſeeing the Mold, did, with others, ſtore himſelf with a quantity of this <hi>Spirit of Salt,</hi> prepared in the form of a Balſome by Me, the uſe whereof was found to be to their very great refreſhment, as quenching their thirſts in the fierceſt heats they met withall for almoſt 12. hours together, and preſerving them from every di<g ref="char:EOLhyphen"/>ſeaſe throughout their whole Voyage,</p>
+               <p>This Mr. <hi>Jonas Moor</hi> teſtifieth under his hand, and for this end, that others in ſuch cales might accordingly fur<g ref="char:EOLhyphen"/>niſh themſelves as they did.</p>
+               <p n="13">13. Mrs. <hi>Bird</hi> gave ſome of this <hi>Spirit of Salt</hi> to her Child dren that were troubled with Wormes, which it preſently kill'd and brought away.</p>
+               <p n="14">14. The wife of Mr, <hi>William Palladay</hi> troubled much with Scorbutical ſpots and Inflamations in her feet, by the uſe of this <hi>Spirit of Salt</hi> was recover'd; which her Chil dren afterwards making uſe of, were much benefited by it alſo.</p>
+               <p n="15">15. <hi>Edward Atkinſon</hi> having been long troubled with a Cough, and thereby much weakned; and alſo for moſt part of the Winter having been uſually taken about 4. of the Clock in the afternoon with an aguiſh diſtemper, great Thirſt, and Chilneſs all over his Back, violent Coughing, reaching to Vomit, and a great indiſpoſedneſs:
+<pb n="5" facs="tcp:184764:7"/>all other means proving in effectual, by the late uſe of this <hi>Spirit of Salt,</hi> prepared by Me, he found great benefit; that is, taking it in Poſſer drink about four of the Clock in the afternoon, his diſtemper much abated, and all the ſymptomes removed, ſo that now he is in a much beter temper: Therefore he thought it neceſſary to give this Teſtimony of it as of an excellent Remedy.</p>
+            </div>
+            <div type="testimony">
+               <head>March <hi>19. 1663</hi> Edw. Atkinſon.</head>
+               <p n="16">16. <hi>Anne Read</hi> wife of <hi>Burnel Read,</hi> living in <hi>Wheelers</hi> ſtreet in <hi>Spittle</hi> fields <hi>London,</hi> being very ſorely troubled with the Dropſie, Scurvy and other Diſeaſes, ſo that ſhe thought her ſelf paſt cure, was made whole and perfectly reſtored to her health, only taking of this <hi>Spirit of Salt.</hi>
+               </p>
+            </div>
+            <div type="testimony">
+               <head>The Approbation of ſeveral Doctors by new Teſtimonies.</head>
+               <p>Dr. <hi>Sprackling,</hi> one of the Colledge of Phyſitians in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> being of my former acquaintance, and having receiv<g ref="char:EOLhyphen"/>ed and experienced this <hi>Spirit</hi> of mine, deſireth more, and in his Letter to me, teſtifieth, that he had often experienced the excellency of it.</p>
+               <p>The ſame Doctor viſiting me at my houſe, acknow<g ref="char:EOLhyphen"/>ledged that he had fully experienced it's great Virtues in expelling Gravel, curing intermittent and continual Fea<g ref="char:EOLhyphen"/>vers, and (much beyond his expectation) in the Scurvy. Although his modeſty refuſed to publiſh any thing under his hand, pretending that his Teſtimony was too inconſi<g ref="char:EOLhyphen"/>derable to adde to the repute of this excellent medicine.</p>
+               <p>
+                  <pb n="6" facs="tcp:184764:8"/>
+He was in <hi>London</hi> in the year 1664, but now he lives very highly eſteemd in <hi>Lancashire,</hi> &amp; hath many times ſent tome for this <hi>Spirit of Salt</hi> as may be atteſted by his ſeverall let<g ref="char:EOLhyphen"/>ters, and I am conſident he will not diſown this my relation.</p>
+               <p>Dr. <hi>John Smith</hi> one of the Colledge of Phyſitians in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> was pleaſed to come to me &amp; confeſſe that he had of<g ref="char:EOLhyphen"/>ten made uſe of my <hi>Spirit of Salt</hi> in ſundry diſeaſes, and had found very great benefit by it, and at the ſame time cauſed a good quantity of it to be ſent unto him in the Country.</p>
+               <p>Dr. <hi>Bras Nunes Manhans</hi> a Portugues and Phyſitian to the Queen, doth uſe and highly approve of this <hi>Spirit.</hi>
+               </p>
+               <p>Dr. <hi>Needham</hi> and Dr. <hi>Holings</hi> two learned Phyſitians in <hi>Shropſhire</hi> having made trial of this <hi>Spirit,</hi> do well approve of it.</p>
+               <p>Dr. <hi>Ingram</hi> and Dr. <hi>Newton</hi> both living in <hi>Eſsex</hi> do like<g ref="char:EOLhyphen"/>wiſe highly approve of this <hi>Spirit.</hi>
+               </p>
+               <p>Dr. <hi>Bently</hi> living in <hi>Chesſhire,</hi> doth alſo very much ap<g ref="char:EOLhyphen"/>prove of it.</p>
+               <p>Dr. <hi>Poleman</hi> a German, one of great note amongſt Chymiſts doth moſt largely commend this <hi>Spirit.</hi>
+               </p>
+               <p>Mr. <hi>Montrainsky</hi> profeſſor of Phyſick at <hi>Canterbury,</hi> doth ſo well approve of it that he ſpends great quantities of it yearly, as his many letters ſent to me do teſtify.</p>
+               <p>Mr. <hi>Croke</hi> profeſſor of Phyſick in <hi>Wilt-shire</hi> doth very well approve of this <hi>Spirit.</hi>
+               </p>
+               <p>Mr. <hi>Eraſmus Veldman</hi> a moſt famous German Chyrur<g ref="char:EOLhyphen"/>geon, to whom was ſent of my <hi>Spirit,</hi> travelled unto many places in <hi>England</hi> where the Plague was, and there uſed it, and returning afterwards to <hi>London,</hi> he gave this teſtimony of it, that he found moſt admirable benefit by it, upon almoſt a numberleſs ſort of people viſited therewith, as
+<pb n="7" facs="tcp:184764:8"/>alſo upon ſuch as were troubled with Ptyſicks, Feavers and Scurvy.</p>
+               <p>There are alſo many Chyrurgeons &amp; Apothecaries, that, having heard of the fame and worth of this my <hi>Spirit of Salt,</hi> have come to me for it, but there are many, who, not underſtanding the fermentation or leavening, and the man ner of extracting the true eſſence of things, do therefore ſtick to their private opinions and judgements of this my <hi>Spirit,</hi> but I hope, that at length, being moved with the excellency thereof, they will change their opinion, and will not only judge better but alſo make frequent uſe thereof.</p>
+            </div>
+            <div type="testimony">
+               <head>New Teſtimonies of ſeveral patients <hi>Elias Price.</hi>
+               </head>
+               <p n="17">17. This <hi>Elias Price</hi> lay very dangerously ſick of pains in his body, and ſtopping in his ſtomack, his breath being almoſt gone, and he being given up for a dead man by the Doctors to whom his water was ſent, yet afterwards in a fortnights time, by Gods help in the uſe of this <hi>Spirit of Salt</hi> he was perfectly well.</p>
+            </div>
+            <div type="testimony">
+               <head>The Teſtimony of Mr. <hi>Line</hi> 26 <hi>Aug.</hi> 1664.</head>
+               <p n="18">18. This Mr. <hi>Line</hi> living at <hi>Aſhford</hi> in <hi>Kent,</hi> and being ſorely troubled with gravel made uſe of this my <hi>Spirit of Salt,</hi> and was petfectly cured thereby. The ſame perſon having a child eight years old, that could neither go nor ſtand, in the ſpace of ſix weeks by the uſe of this <hi>Spirit of Salt,</hi> could go and ſtand as well as the reſt of his children</p>
+            </div>
+            <div type="testimony">
+               <pb n="8" facs="tcp:184764:9"/>
+               <head>The Teſtimony of <hi>Mr. Philip Roberts</hi> fellow of <hi>Jeſus Colledge</hi> in <hi>Oxford.</hi>
+               </head>
+               <p n="19">19. This Mr. <hi>Roberts</hi> was ſo troubled with the ſcurvy, that he could neither sleep by night, nor ſcarce move either armes or legs, &amp; in a weeks time ſpent in the uſe of this <hi>Spirit of Salt,</hi> found that it procured him ſound sleep conſtantly, and in little time he was eaſed of all his pains.</p>
+            </div>
+            <div type="testimony">
+               <head>The Teſtimony of Mr. <hi>Bull</hi> of <hi>Ratcliff</hi> near <hi>London,</hi>
+               </head>
+               <p n="20">20. This Mr. <hi>Bull</hi> had a young ſon much troubled with ſhortneſs of breath, ſpitting of bloud immoderately, coughing, ill digeſtion, that at laſt he was grown very lean and conſumptive, whereupon he gave him of my <hi>Spi<g ref="char:EOLhyphen"/>rit of Salt</hi> and another medicine, &amp; on a ſuddain he found eaſe, and after eight or nine dayes was perfectly cured, this Mr. <hi>Bull</hi> deſired might be publiſhed.</p>
+            </div>
+            <div type="testimony">
+               <head>The Teſtimony of Mrs. <hi>Elizabeth Chapman</hi> living formerly in <hi>Coleman ſtreet</hi> but now in little <hi>Mooor fields</hi> in <hi>Butchers Alley.</hi>
+               </head>
+               <p n="21">21. This Mrs, <hi>Chapman</hi> was ſo troubled with the yellow jaundies that the Doctors in the Country gave her up, as irrecoverable, but ſhe taking a bottle of my <hi>Spirit of Salt</hi> was perfectly cured.</p>
+               <p>Therefore this my <hi>Spirit</hi> ought not to be tryed by out<g ref="char:EOLhyphen"/>ward ſignes, and vulgar notes, as the colouring of Metalls,
+<pb n="9" facs="tcp:184764:9"/>the Smell, Taſt, <hi>&amp;c.</hi> (which ſignifie nothing) but by the excellent effects it hath in expelling grievous Diſeaſes, and which it leaveth to all wiſe obſerving men, as certain ſigns of its goodneſs, and its unblameable virtue.</p>
+            </div>
+            <div type="virtues_of_medicine">
+               <head>The tranſcendent virtue of the true <hi>Alexicacus Spirit of Salt</hi> of the World.</head>
+               <p>THere have been ſo many preparations of <hi>The</hi> (com<g ref="char:EOLhyphen"/>monly called), <hi>Spirit of Salt,</hi> unduly made, re<g ref="char:EOLhyphen"/>taining moſt pernicious accidents, as it will be a hard matter to have the worth of that which is perfect admit<g ref="char:EOLhyphen"/>ted into a vulgar Creed. Yet when the noble and univer<g ref="char:EOLhyphen"/>ſal qualites of ſeaſoning and preſerving our Food by com<g ref="char:EOLhyphen"/>mon Salt are weighed, the ingenuous muſt needs con<g ref="char:EOLhyphen"/>clude, and that when rightly ſeparated from its dregs and ſcum, and preſented to us in its ſtrength and vigour, it cannot but be worth a welcome reception amongſt in<g ref="char:EOLhyphen"/>telligent perſons; Its Virtues inward, and outward, being publiſhed and experienced.</p>
+               <p>
+                  <pb n="10" facs="tcp:184764:10"/>
+ALthough it communicates not much to the nouriſh<g ref="char:EOLhyphen"/>ment of the Body it ſelf; Yet this <hi>Spirit</hi> marvellously procures a good appetite, ſtrengthning and cleanſing the ſtomack from putrefaction, and conſumes, carries away and diſperſeth all raw and Fleg-matick humours,
+<note place="margin">For the ſtomack,</note> collected and ingendred in the Bowels; Helps Digeſtion, quenches Thirſt, keeps the body ſoluble, and ſo operates, that it helps to tranſport nouriſhment to and throughout the whole Body; and diſſolves all kind of Obſtructions.</p>
+               <p>It purifies and revives the Bloud and keeps it volatile,
+<note place="margin">Bloud.</note> that thereby it more regularly proceeds in it's Circulation.</p>
+               <p>The author by uſing this <hi>Spirit</hi> in Drinks,
+<note place="margin">Plagat.</note> Broths, and Sauces, (ſtaying all the time of the Peſtilence in <hi>London</hi>) kept by Gods grace, not onely himſelf and family; but alſo many others during all the Contagion from the Plague.</p>
+               <p>It warmes but not overmuch,
+<note place="margin">Vitall Spirit Sweating and sleep.</note> becauſe it hath a moſt temperate Faculty in comforting the vital Spirit, and is the cauſe of diſpelling whatſoever diſtempers ariſe againſt nature, and hereby men become more agil, merry and jocund. It procures moderate ſweatings, &amp; gentle sleep.</p>
+               <p>It cauſeth Urin and keeps the Ureters from all filth or ſlime,
+<note place="margin">Urine.</note> and diſpels the water that lurks betwixt the skin and fleſh, by Stool and urine.</p>
+               <p>It cures all perſons troubled with the Stone or Gravell,
+<note place="margin">Stone and Gravel.</note> both in the Reins &amp; bladder, &amp; hinders Coalition of the Gravell, and in time diſſolves the Stone, if not already too much congealed and hardned</p>
+               <p>It is very good againſt all Catarrhs that fall from the Head,
+<note place="margin">Rheumes &amp; Cough,</note> and preſerves from all diſeaſes that come by Cough<g ref="char:EOLhyphen"/>ing or any flux of Rheume.</p>
+               <p>
+                  <pb n="11" facs="tcp:184764:10"/>
+It is an excellent remedy againſt Feavers of long continu<g ref="char:EOLhyphen"/>ance,
+<note place="margin">Feaver. Liver</note> and quenches Thirſt in ſuch as languiſh under hot diſtempers, or maladies that cauſe draught, in hot wea<g ref="char:EOLhyphen"/>ther cooling the Bloud and inflamed Liver.</p>
+               <p>It helps the liver and Spleen,
+<note place="margin">Spleen &amp; Winde</note> and Hypocondricall Me<g ref="char:EOLhyphen"/>lancholly: it eaſily diſperſes all pains in the Sides, and Bowels, and whatſoever hath it's beginning from Wind, or Cold.</p>
+               <p>It cures the Haemorrhoides or Piles.
+<note place="margin">Piles, Scurvy.</note>
+               </p>
+               <p>Againſt the Scurvy it is the moſt approved Antidote and Remedy, becauſe the <hi>Spirit of Salt</hi> hinders the putre<g ref="char:EOLhyphen"/>faction of the Bloud.</p>
+               <p>It is an excellentent remedy againſt all Hydropical diſea<g ref="char:EOLhyphen"/>ſes,
+<note place="margin">Dropſie.</note> becauſe all Dropſies Ptyſſicks and Diſeaſes that proceed from the Liver are wont to happen by reaſon of certain watry and bubling tumours in the natural parts, Thighes and Legges.</p>
+               <p>It is a moſt excellent remedy againſt the falling Sickneſs eſpecially if it be taken in the beſt Extraction of ſaffron,
+<note place="margin">Falling ſickneſs &amp; Palſie,</note> (which is to be had of me) which is not made of the dreggs of Wine, but of Wine it ſelf; as alſo againſt benum<g ref="char:EOLhyphen"/>medneſſe, the Palſie, and ſciatica.</p>
+               <p>It ſtiffles the Jaundiſe in the birth,
+<note place="margin">Black &amp; yellow Jaundice Wormes.</note> or kills it in it's ſtrength</p>
+               <p>It is an healer of the ulceration of the Lungs, and apre<g ref="char:EOLhyphen"/>ſerver againſt the Conſumption of them</p>
+               <p>It prevents the breeding of Wormes, eſpecially in chil<g ref="char:EOLhyphen"/>dren and kills them if bred.</p>
+               <p>It is very beneficial for Women with Child, and for ſuch as give Suck, and the Children that Suck of them.<note>For Wo<g ref="char:EOLhyphen"/>men with Child, and that give Suck.</note>
+               </p>
+               <p>
+                  <pb n="12" facs="tcp:184764:11" rendition="simple:additions"/>
+Alſo for any that are poyſoned by <hi>Opium, Spiders,</hi> or o<g ref="char:EOLhyphen"/>therwiſe, or ſtung or bitten by <hi>Serpents.</hi>
+               </p>
+               <p>It cauſeth the Monethly courſes in women, removes obſtructions, and helps them to the benefit of nature: Alſo for the cure of Green ſickneſs, and fits of the Mother, it is an approved Medicine. And thoſe that have the Matrix clog'd with ſuperfluous humours may uſe it with ſucceſs. Note that if any diſeaſe be ſo obſtinate that <hi>this Spirit of Salt</hi> cannot remove it, we have readily other Medi<g ref="char:EOLhyphen"/>cines, God willing to aſſiſt and repell the moſt ſtubborn and pertinacious diſtemper.</p>
+            </div>
+            <div type="virtues_of_medicine">
+               <head>For the virtues of it outwardly uſed.</head>
+               <p>IT keeps a good &amp; lively colour. And putrified wound or proud fleſh, being gently waſhed with it are cured and the place preſerved by it, clean and ſound.</p>
+               <p>It brings life into benumb'd Members, and is very good againſt the Cramp.</p>
+               <p>It may be outwardly applyed for the <hi>French</hi> Diſeaſe: a alſo in Gouts, mixed with Oyl of <hi>Turpentine, Wax, Am<g ref="char:EOLhyphen"/>ber, Harts-horne,</hi> or the like.</p>
+               <p>It is good for the Kitching, in rendring Meats gratefull and pleaſant; for inſtead of <hi>Vinegar, Lemons,</hi> or other ſharp Sauces, it is more healthfully taken: mixt with <hi>Sugar</hi> it excellent ſauce for Roaſted meats.</p>
+               <p>By it <hi>Raiſins</hi> recover their former bigneſs and beauty &amp; mixt with ſome fountain water are pleaſing to the pallat and very cordial to refreſh a weak ſtomack.</p>
+               <p>
+                  <pb n="13" facs="tcp:184764:11" rendition="simple:additions"/>
+                  <hi>Pigeons, Chickins,</hi> and all fleſh ſeaſoned with it, are of a pleaſing reliſh: <hi>Beef,</hi> ſteeped in, or ſprinkled withit, is made tender.</p>
+               <p>It cleanſeth the <hi>Teeth,</hi> and makes them as white as ſnow.</p>
+               <p>To ſay no more, it's that which cuts the Sinews of all Diſeaſes, and ſupports, and reſtores weak bodies. One thing more cannot be omitted; when at Sea water is ſcant, ſome of this prepared into a Balſome laid on the tip of the tongue in a ſmall proportion, takes away all incli<g ref="char:EOLhyphen"/>nation to drink. Which Balſom, whoſoever deſires is to give me notice afore hand that I (who alone can) may prepare him ſome.</p>
+               <p>Whoſoever uſes it ſhall find theſe Effects: of which if any one doubt, let them try in ſome one and by that judge the reſt.</p>
+            </div>
+            <div type="directions">
+               <head>DIRECTIONS <hi>for the Vſe of the</hi> SPIRIT <hi>of</hi> SALT.</head>
+               <p>FIrſt in Genetal. It may be put and taken in all ſorts of Liquors: as Water, Beer, Ale, Poſſet Syder, Wine, Broths, Sauce, &amp;c. And is more healthfully uſed than O<g ref="char:EOLhyphen"/>ranges, Lemons, Vinegar or Verjuice; and with Oyl is moſt pleaſant: Indeed it's proper in all ſorts of Cookry, to be u<g ref="char:EOLhyphen"/>ſed by the healthy, to prevent the Maladies mentioned in the Treatiſe of it's Nature, as well as for their Cure; and it gives the Pallat a ſmart reliſh, at the diſcretion of the uſet no errour can be commited, by taking any quan<g ref="char:EOLhyphen"/>tity from 10. Drops to 40. That proportion at any time, mingled with Sugar may be doubled, and taken in Morning draughts, is very efficacious; For it preſerves the
+<pb n="14" facs="tcp:184764:12" rendition="simple:additions"/>Body, from all manner of Corruption, and reſtores Na<g ref="char:EOLhyphen"/>ture to it's Primitive ſtate. To preſerve health, any ſmall quantity will ſerve, but to repel a Diſeaſe, a greater quan<g ref="char:EOLhyphen"/>tity is requiſite, and may be uſed with Sugar if they pleaſe.</p>
+               <p>In particular, 40, Drops of this <hi>Spirit</hi> in half a pin to any ſort of Liquor, is a good Standard: And after the pro<g ref="char:EOLhyphen"/>portion of So Drops in a Quart, it revives all ſorts of Beet, Ale, Syder, and Wine; long preſerving them both Strong and generous: And the like quantity being put into bar<g ref="char:EOLhyphen"/>rels of Water, for Mariners to drink at Sea, will better preſerve, them from putrefaction which ariſeth from Raw Water.</p>
+               <p>In dreſſing all ſorts of Fiſh, Fleſh, and Fowl, being old and Tough, they are made tender and nouriſhing, by ſo much here of mingled with any Spices, Water, or Butter and ſprinkled on them, as may give a quick taſte in their Sawces; and cold Meat alſo ſprinkled there with, is pre<g ref="char:EOLhyphen"/>ſerved from detriment.</p>
+               <p>In Pickling any Sallets, as Cucumbers, Capers, fennel Purſtain, Broom-buds, &amp;c. being mingled with Water and Salt, ſo as to make it ſharp and quick, it is very healthful and pleaſant.</p>
+               <p>To prevent the tooth-ach, or to cleanſe &amp; preſerve the Teeth white, put ſix Drops in a ſpoonfull of running wa<g ref="char:EOLhyphen"/>ter, (or for the Curious into Roſe water) and with a ſmal Linnen Rag, rub the Teeth, and it's impoſſible they ſhould corrupt, or putrifie:</p>
+               <p>It is very good for women with child, either in their ordinary drink or Poſſet or Broths &amp;c. But as for ſuch as give ſuck, let them with 60. Drops turn a pint of Mill
+<pb n="15" facs="tcp:184764:12" rendition="simple:additions"/>into a poſſet, and take the whey, mingled with Sugar (if they pleaſe) and drink a reaſonable draught there of in a Morning, faſting an hour after it, and their Children will be kept from the Scurvy, ſmall pox; Feavers. Convulſions, Wormes, Stone, and the like Diſeaſes eſpecially if they drink as much as they are able.</p>
+               <p>If any delight in <hi>Aromaticum</hi> or Coffee then they may drink 10, or 20. Drops in a Diſh there of as in a good Ve<g ref="char:EOLhyphen"/>hicle.</p>
+               <p>It's moſt ſuccesful in intermittent Feavers, if the patient take 30. or 40. Drops thereof with alittle ſugar in his or<g ref="char:EOLhyphen"/>dinary drink a little before his fit comes, but after wards let him take only 20. Drops as often as he is thirſty, but in continuall Feavers let him every four hours take 20. Drops with a little ſugar in his ordinary drink. Dr <hi>Sprack<g ref="char:EOLhyphen"/>ling</hi> told me he had cured many continual Feavers this way, which made tryal of upon my Wife and younger daughter, and found good ſucceſſe thereby, yet it is not my intention hereby to exclude other Remedies which in this caſe may be adminiſtred by learned Doctors.</p>
+            </div>
+            <div type="evidence">
+               <pb n="16" facs="tcp:184764:13"/>
+               <head>Many have enquired of me whether this <hi>Spirit of Salt</hi> be beneficial at all ſeaſons of the year. I ſhall therefore give them further ſatisfaction by what followeth.</head>
+               <p>LEt ſuch therefore know that it being a preſervative for all things and nothing being more agreable to humane nature then it whoſoever will conſult and provide for his own health, may take in every ſeaſon, <hi>viz.</hi> Winter, Spring, Summer, and Autumn, Fir<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Winter, when all kind of Flegmes moiſt ſwellings, and extraordinary ſpittings are common amongſt men: becauſe Winter is naturally moiſt and cold through plenty of Rain, and length of the Night, as <hi>Hypocrates</hi> teſtifies in his book <hi>de natura Hominis.</hi> Now this.</p>
+               <p>
+                  <hi>Spirit of Salt</hi> being known and approved to be moſt excellent a<g ref="char:EOLhyphen"/>gainſt Fiegme Rheume, Tumours and ſuperfluity of Spitting may be very profitable taken, as alſo</p>
+               <p n="2">2. In the Spring, when the bloud is increaſed.</p>
+               <p n="3">3. In Summer when the Bloud is far more increaſed, and when men are troubled with inflamations and Fluxes of blood from the Noſtils, and are very hot and ſubject to Feavers: as doth <hi>Hypocrates</hi> write in the ſame book, and other places: For this <hi>Spirit</hi> doth oppoſe and hinder all thoſe inconveniencies, being of it's, own nature contrary to all hot Diſlempers, as thoſe that have made uſe of it, have found by experience.</p>
+               <p>Beſides this <hi>Spirit</hi> hath the property to correct depraved and ma<g ref="char:EOLhyphen"/>lignant humours and moiſture, (which are wont to hinder nouriſh<g ref="char:EOLhyphen"/>ment) which if they be not prevented, the Belly will ſwell, and thereupon will follow an exaſperation of Scabs and Boyls and indi<g ref="char:EOLhyphen"/>geſtion, which extenuates the vigour of the body, and cauſes Drop<g ref="char:EOLhyphen"/>ſies and other evill habits and Maladies, by which ſick perſons are ſo vexed, that their taſt is taken away, and they fall into Con<g ref="char:EOLhyphen"/>ſumptions, and laſtly, in this <hi>Spirit</hi> ought more principally to be taken, in Autumn for the more grievous and deſtructive diſeaſes do ſwarm, as the ſame <hi>Hypocrates</hi> in his <hi>de Epidem,</hi> doth write
+<pb n="17" facs="tcp:184764:13"/>and at that time many are oppreſſed with ſickneſs, but eſpecially thoſe that are ſubject to Conſumptions. And therefore <hi>Women</hi> al<g ref="char:EOLhyphen"/>wayes, but more eſoccially ought to have a very high eſteem of this Spirit, that they may keep themſelves from the ſuppreſſion of their Monethly courses from whence do ariſe great languiſhings and Conſumptions as the ſame Author relates in his firſt book, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, for thoſe women having collected Flegme and filth in their ſtomach, tremble, and are aſtoniſhed through all the parts of their body, becauſe Flegme by it's pricking quality, doth detract and pluck the inward membranes which covet the Bowels, which from the weight and plenty of matter, that intercepts the ſpiritall and reſpitating wayes, cannot breath but with great difficulty. In the ſame ſeaſon alſo extraordinary and ſpurious Feavers do happen, which are moſt difficult to care and full of danger, becauſe then they have a divers permixture and inequality of humours which incom<g ref="char:EOLhyphen"/>modities are prevented by this <hi>Spirit of Salt.</hi>
+               </p>
+               <p>As for <hi>Children</hi> they ought not to be deprived of this moſt healthful <hi>Spirit,</hi> becauſe they are ſubject to the ſmall Pox, Meaſles, Gravel, <hi>&amp;c.</hi> and in their Feavers, are moſt prone to convulſions be<g ref="char:EOLhyphen"/>cauſe of the Crudity of their aliment and ſharpneſs which they draw from the Milk, and from the weakneſs of the nerves and ſinews, and therefore they are wont to be terrified, and mourn and kick with their feet, becauſe of the vitiouſneſs of their humours, and corrupti<g ref="char:EOLhyphen"/>on that proceeds from the Milk, which do trouble the ſtomack or fill the brain with acrimonious vapours. For theſe cauſes this <hi>Spirit of Salt</hi> is to be exhibited to Youth, That the breeding of the Stone be ſtopt in the beginning: for Boyes are more obnoxious to breed the ſtone, then men, as <hi>Hypocrates</hi> in <hi>libro de natura hominis</hi> very well obſerves; and alſo there ſhews the reaſon, to wit, the great heat that nature affords for their growth, and he in Libe <hi>de Aere, Loco, &amp; Aquis,</hi> ſhews alſo another reaſon for the ſtone in Boys, <hi>viz,</hi> their mothers Milk, which is hot and cholerick, and therefore he preſcribes water, to be well mixed with their wine, but this <hi>Spirit of Salt</hi> mix<g ref="char:EOLhyphen"/>ed in our common drink is far more excellent then wine, becauſe it doth not ſo ſcorch and dry the veins as wine doth, for this <hi>Spirit
+<pb n="18" facs="tcp:184764:14"/>of Salt,</hi> its contrarie to heat, it ſuffers not any thing which is either graſſe, or any wayes troubleſome, to ſtay in the bladder, but ejects it by urine, by that which is ſaid Parents may learn how to pre<g ref="char:EOLhyphen"/>vent the ſtone in their children, unto which they are ſo much ſub<g ref="char:EOLhyphen"/>ject, <hi>viz.</hi> by this my <hi>Spirit of Salt,</hi> theſe and other mala<g ref="char:EOLhyphen"/>dies this <hi>Spirit</hi> doth diſpell. Therefore I have inſiſted the more plainly upon the vertues of it for the glory of God and ſatisfaction and health of my neighbours,</p>
+            </div>
+            <div type="author_to_the_reader">
+               <head>An Aduertiſement.</head>
+               <p>Envy is wont to ſnarl at Virtue, but it can never hurt it. There are very many, who out of a perverſe opinion, with words artificial enough, dare carp at, and diſpraiſe this <hi>Spirit of Salt,</hi> notwithſtanding they are altogether igno<g ref="char:EOLhyphen"/>rant of the Preparation of it. To whom this ſaying out of <hi>Hippocrates,</hi> in his Book <hi>de Decenti habitu ſeu Decoro,</hi> ſhall be a ſufficient Anſwer.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>A moſt excellent thing is that reaſon, which is drawn from the matter which any man hath learned: for whatſoever it be that is wrought by Art proceeds from Reaſon: but whatſoever is artificially ſpoken, but not artificially performed, argues both the way and reaſon void of Art or skill. Therefore any thing only opinionated without Action, is a notable token of lack of knowledge, and want of skill. And a bare Opinion, of ſeverall Drs. in Phyſick without ever ex<g ref="char:EOLhyphen"/>periencing the truth thereof, is the cauſe why themſelves are ſpoken againſt, and their Parents miſcarry, for the Sick wants Help, not Reaſonings.</hi>
+               </p>
+               <p>
+                  <pb n="19" facs="tcp:184764:14"/>
+Some others again ſtudying their own private Lucre, raile againſt me, and ſpeak whatſoever comes uppermoſt (as if I had done nothing but ill.) But to theſe I oppoſe thoſe very many men, that have made tryal of this my <hi>Spi<g ref="char:EOLhyphen"/>rit of Salt,</hi> and having recovered their health by it, have commended it very highly, &amp; have given a verylarge Teſti<g ref="char:EOLhyphen"/>mony of it's Virtues. Some of them having found the benefit of it againſt Obſtructions; others againſt the <hi>Scur<g ref="char:EOLhyphen"/>vy;</hi> others againſt <hi>Conſumptions;</hi> others againſt the <hi>Tooth-ache;</hi> others againſt Malignant <hi>Feavers;</hi> others againſt <hi>Agues;</hi> others againſt the <hi>Stone</hi> in the Reins; others againſt the <hi>Suppreſsion</hi> of Urine; others againſt the <hi>Dropſie;</hi> others againſt the <hi>Weakneſs</hi> of the Sinews, Mu<g ref="char:EOLhyphen"/>ſcles and joynts; others againſt the <hi>Swimming vapours</hi> of the Head, and <hi>Head-ache;</hi> others againſt <hi>Catarrhs</hi> and <hi>Colds,</hi> ſo that indeed, (as ſome Letters ſent unto me do teſtifie) it may be accounted a <hi>Catholick</hi> or <hi>Vniverſalmedicament.</hi>
+               </p>
+               <p>Therefore let none hence forward ſpeak againſt me or this my <hi>Spirit,</hi> leaſt they appear to diſplay their own igno<g ref="char:EOLhyphen"/>rance and withall, envy to truth, but rather bleſs God that they enjoy ſo excellent a medicine.</p>
+               <p>Therefore, for my part, I ſhall neaver leave off preparing it; if for no other reaſon, but only that I know, it is moſt Excellently good.</p>
+            </div>
+            <div type="author_to_the_reader">
+               <head>A ſecond Advertiſement</head>
+               <p>Many of my friends, intelligent men, do wonder, and ſay how is it poſſible, that one medicine can cure ſo many and ſo vatious Diſeaſes: To whom before I anſwer, I wil bring this ſaying out of <hi>Hypocrates</hi> in his book <hi>de Natura Homi<g ref="char:EOLhyphen"/>nis,</hi> who ſaith,</p>
+               <p>
+                  <pb n="20" facs="tcp:184764:15"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>That all Diſeaſes proceed partly from the manner if our living, and partly from the air we draw into us, without which we cannot live.</hi>
+               </p>
+               <p>Now then, if any man have an excellent water by him, whereby the body is either kept in continual health, or reſtor'd to health when ſick, it's plain he may be preſerved till the time limited by God for his death: but experience hath found out 7. my <hi>Spirit of Salt</hi> will do theſe, for it doth render the bowels and inward parts clean and firm, doth corroborate and ſtrengthen the Faculties, and keep them conſtant, makes good and eaſie Concoction, and to breath freely and keeps his whole body in a like temper and heat; for the firmneſs and ſtrength of the bowels, and the integrity of the Faculties doth much further the preſer<g ref="char:EOLhyphen"/>vation of health; for indeed they are the very Fort and Caſtle of our Livelihood; from whence <hi>Hypocrates</hi> elſe where commends that man who is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that is, he that hath clean and ſtrong Bowels.</p>
+               <p>But this I ſay for my Concluſion, that the Reader may diligently obſerve, that he take not Doubtfull things for True, Weak things for Solid, and Arbitrary for things ſurely ratified; for whatſoever by daily Experience is cer<g ref="char:EOLhyphen"/>tainly approved, ought alwayes to be preferred before any that happens by Chance, and that more eſpeeially in <hi>Chy<g ref="char:EOLhyphen"/>mical</hi> Medicines; In which, as in a ſtorm at Sea, the Mari<g ref="char:EOLhyphen"/>ner hath much adoe to attain his defired Port, without
+<pb n="21" facs="tcp:184764:15"/>danger of being ſwallowed up of Quick-ſands, or beaten in pieces againſt Rocks; whereas experience dictates, that many being deterred by the ſhipwrack of their Fortunes, have caſt away all hope and expectation of obtaining their wiſhed-for-Haven.</p>
+            </div>
+            <div type="medicinal_advert">
+               <head>This <hi>Spirit</hi> is to be had in ſeveral Glaſſes ſealed with the <hi>Roſe</hi> and <hi>Eagle,</hi> with 3. Greek Letters, Κ. Ρ. Χ. And about the Seal, <hi>Verus Spiritus Salis</hi>
+               </head>
+               <list>
+                  <item>It is ſold at the Authours houſe next door to the three Kings Inn in <hi>Southampton</hi>-Buildings near the Kings Gate in <hi>Holborn.</hi>
+                  </item>
+                  <item>As alſo by Mr. <hi>Milward</hi> Bookſeller at <hi>Westminſter</hi>-Hall-gate.</item>
+                  <item>Mr. <hi>William Benſon</hi> Barber at the three Tuns by <hi>Charing-Croſs.</hi>
+                  </item>
+                  <item>By <hi>William Grover</hi> at the Barber-Chirurgeans at <hi>Picadilly</hi> near St. <hi>James</hi>'s Fields</item>
+                  <item>At Mr. <hi>Johnſons</hi> at the Red Lion in the Outward Rowe in the <hi>New Exchange.</hi>
+                  </item>
+                  <item>Mr. <hi>Charles Morgan</hi> Grocer at the Angel in <hi>Henrietta</hi>-ſtreet in <hi>Covent-Garden.</hi>
+                  </item>
+                  <item>Mr. <hi>Charles Brandon</hi> Cheeſemonger at the Fryingpan in <hi>New-Market.</hi>
+                  </item>
+                  <item>By <hi>Edward Cox</hi> at the <hi>Indian</hi> Gown in the <hi>Strand,</hi> near <hi>Strand<g ref="char:EOLhyphen"/>bridge.</hi>
+                  </item>
+                  <item>By <hi>Samuel Speed</hi> Bookſeller at the Rainbow in <hi>Fleetstreet.</hi>
+                  </item>
+                  <item>Mr. <hi>Herrick</hi> Stationer at <hi>Gray</hi>'s-Inn-Gate.</item>
+                  <item>Mr. <hi>Francis Gerard</hi> at the Three Bouls next to <hi>Brook-houſe</hi> in <hi>Holborn.</hi>
+                  </item>
+                  <item>Mr. <hi>Redmayne</hi> Printer in <hi>Clerkenwell-Cloſe.</hi>
+                  </item>
+                  <item>By <hi>Samuel Tompſon</hi> at the Biſhops-head in <hi>Duck-Lane.</hi>
+                  </item>
+                  <item>Mr. <hi>George Thody</hi> Cheeſemonger in <hi>Alderſgate-ſtreet.</hi>
+                  </item>
+                  <item>
+                     <hi>Jane Buckle</hi> at the Bodice and Sleeves in <hi>Alderſgateſtreet.</hi>
+                  </item>
+                  <item>Mr. <hi>Daniel Pelcome</hi> Millener at the Golden Goat in <hi>Jewen<g ref="char:EOLhyphen"/>street.</hi>
+                  </item>
+                  <pb n="22" facs="tcp:184764:16"/>
+                  <item>
+                     <hi>Mr. John Low</hi> Watchmaker <hi>at the Golden B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll in</hi> Newſtreet <hi>in</hi> Moor-fields, <hi>over againſt</hi> Little Moor-gate.</item>
+                  <item>
+                     <hi>Mr. George Philips</hi> a Potter over againſt the Meal-market in <hi>Southwark.</hi>
+                  </item>
+               </list>
+               <p>At any of theſe places may be had what quantity of this <hi>Spirit</hi> any deſireth, at the rate of Eight ſhillings a Pint; and to that end Bottles of Pints, Half-pints, and Quarter of Pints are there ſealed up to be had; and what is ſo ſealed and fold, is the onely avouched <hi>Spirit of Salt.</hi>
+               </p>
+            </div>
+            <div type="description_of_medicines">
+               <head>Of other Medicines which are made <hi>Ex Sacro Saturno.</hi>
+               </head>
+               <p>The praiſe and excellency of <hi>Sacri Saturni</hi> you ſhall find in my other ſmall book, intituled, <hi>A Diſcourſe of Antimony,</hi> which is to be had at my houſe.</p>
+               <p>MOreover, there are made of <hi>Antimony</hi> ſeveral ſorts of Medi<g ref="char:EOLhyphen"/>cines, namely, the <hi>Crocus,</hi> or Mineral Saffron; the <hi>Flowers,</hi> the <hi>Glaſs</hi> of <hi>Antimony,</hi> the <hi>Antimonial Cup,</hi> the <hi>Butter,</hi> the <hi>Mercurius vitae;</hi> or Vomiting Powder; the <hi>Regulus;</hi> the <hi>Golden Sulphur;</hi> the <hi>Salt,</hi> and <hi>Oyl</hi> made thereof by reſolution in a cold place; as alſo ſeveral kinds of Tinctures. For our part, we know how to make four different Tinctures of <hi>Antimony,</hi> whereof the one excels the other in virtue, according to the purity of the mat<g ref="char:EOLhyphen"/>ter, whereof they are prepared. The ſame way of our Sweating Powder: and theſe our Medicines cauſe no Vomits at all, but work onely by Sweating, and that kindly too; and without any moleſta<g ref="char:EOLhyphen"/>tion or offence to the ſtomack. And at <hi>Cambridge</hi> there are many perſons who can atteſt this truth with me, as alſo here in <hi>London.</hi> We prepare alſo, beſides the Tinctures, and the Diaphoretick, an<g ref="char:EOLhyphen"/>other Medicament, which is a red Powder, and we call it the <hi>Theion</hi> of <hi>Hypocrates,</hi> and our <hi>Panodon,</hi> becauſe it purgeth all the Emunctories, or paſſages of the Body, by Vomit, by Stool, by Urine, by Sweat, and inſenſible tranſpiration, We prepare alſo the Salt of <hi>Antimony,</hi> which hath the ſame effects with our <hi>Theion,</hi> this onely excepted, that the Salt purgeth onely downwards, by Stool
+<pb n="23" facs="tcp:184764:16"/>and Urine, and in that reſpect is better than our red Powder for ſuch Patients, who cannot endure Vomiting Medicines. Of all, and each of theſe we ſhall now diſcourſe, that ſuch perſons who de<g ref="char:EOLhyphen"/>ſire to have them, may know what they are good for, and how they ought to be taken, and in what quantity.</p>
+            </div>
+            <div type="directions">
+               <head>Of the Vſe, Virtue and Doſe of our <hi>Antimonial Tincture.</hi>
+               </head>
+               <p>This Tincture is a good and ſafe Medicine, and may be taken inwardly, or applyed outwardly with much benefit; for it cures the <hi>Leproſie,</hi> the <hi>French Pox,</hi> the <hi>Seurvy,</hi> all <hi>Feavers,</hi> the <hi>Falling Sickneſs,</hi> the <hi>Dropſie,</hi> the <hi>Plague,</hi> the <hi>Meazles,</hi> the <hi>Itch,</hi> and ſuch other Diſeaſes. In <hi>Meagrims,</hi> and pains of the head, and the <hi>Hy<g ref="char:EOLhyphen"/>pocondriack</hi> melancholy, it avails much. It expels Poiſons, cures thoſe that are Aſthmatical; killeth Worms, and helps in many other diſtempers, which cannot be cured with Simples. It cleanſeth the Bloud, emptieth the ſtomach of all vicious humours, brings down the Courſes, and maketh Barren Women Fruitful; in the <hi>Gout</hi> alſo, and the <hi>Stone,</hi> it is a commendable Medicine. The Doſe thereof is alterable, according to the age of the Patient, wherein alſo there muſt be a reſpect had to his ſtrength, and to the violence of the Diſeaſe. To little Children of 2, 3, 4. or 6. moneths old, you may give one or two drops in their mothers milk againſt <hi>VVorms, Itch, Feavers, Convulſions, Falling Sickneſs,</hi> or <hi>Meazles;</hi> but to Chil<g ref="char:EOLhyphen"/>dren of one, two, or three years old, you may give four drops in milk or Wine, and you may ſafely repeat this Doſe every third or fourth day. But If you would onely uſe this Medicine as a preſer<g ref="char:EOLhyphen"/>vative to prevent diſeaſes, then you may give it little Children twice a moneth, and it will ſtrengthen them, and prevent the ſaid Diſeaſes, by cleanſing their bodies, and purging out all bad hu<g ref="char:EOLhyphen"/>mors. But to perſons of fifteen years of age, or 24. you may give fix or ten drops in ſugar'd Wine. And to thoſe of 25. and ſo for<g ref="char:EOLhyphen"/>wards to 50 years of age, you may give 10, 20, or 40 drops: and always you may increaſe or diminiſh the Doſe, according to the age of the Patient, with reſpect had to the ſtrength of the Diſeaſe, and his Body. In the <hi>Gout</hi> and the <hi>Stone,</hi> give 10 drops in Wine or Ale every day in the morning faſting: but if the Patient be very weak, give it onely every third or fourth day, and ſo continue it to the end of the Cure; but let him withall uſe a temperate diet. In the
+<pb n="24" facs="tcp:184764:17"/>
+                  <hi>Leproſie,</hi> the <hi>French Pox,</hi> and the <hi>Scurvy,</hi> take this Medicine every day in the morning; but if the Patient be weak, then take it but every ſecond day, and that ſo long as you find it neceſſary. In the <hi>Falling-ſickneſs,</hi> and the <hi>Dropſie,</hi> it is to be taken after the ſame manner. But in intermitting Feavers, take it an hour, or <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, before the Fitt, or when the Fitt is quite over; and the Patients ſhould always in their ordinary drinks take ſome of our <hi>Spirit of Salt,</hi> in every diſtemper. But if it be a Quotidian Feaver, then take the Tincture every morning. In Peſtilential Diſeaſes, take a Doſe of it preſently, and repeat it every day. But if you would uſe it onely for a preſervative to prevent the <hi>Plague,</hi> then take it but once a week. In all other outward diſtempers, you muſt take a doſe of it in the beginning of the Diſeaſe, and continue it once every day till your diſtemper be removed; and by this means all maladies may be cured, without putting the Patients to any pain, Our <hi>Dia<g ref="char:EOLhyphen"/>phoretick</hi> Powder is alſo effectual in all Diſeaſes, wherein we have preſcribed the Tincture: and may be adminiſtred from one Grain to 40, having always a reſpect to the age and ſtrength of the Pa<g ref="char:EOLhyphen"/>tient. The beſt Vehicle to adminiſter it in, is <hi>Malago</hi> Wine; and let the Patient keep in his bed to ſweat, as he muſt do alſo when he takes the Tincture. And always in intermitting Feavers give the Powder, as well as the Tincture, before the Fitt.</p>
+            </div>
+            <div type="medicine">
+               <head>Of the Diaphoretick Powder.</head>
+               <p>This Medicine is not onely ſucceſsful in the ſame diſtempers that Tincture of <hi>Antimony</hi> is, but in many others; for it perfectly cures <hi>Itch, Pimples,</hi> old <hi>Vlcers,</hi> and <hi>Scabs,</hi> which through that abundant moi<g ref="char:EOLhyphen"/>ſture that is in the body, often become hard to cure, the Doſe is this: Let the Patient take every morning about four or five hours before dinner, half a ſcruple, or half a draghm in a ſpoonful of ſome generous Wine, and this for three weeks or more: And it's wonderful to behold what effects it hath above all Potions made of the decoction of <hi>Guaiacum, Salſapatilla, Clina,</hi> or other common remedies uſed for this end. This I can ſpeak upon my own experience, having found upon my giving it, a moſt happy and notable ſucceſs, and that not onely in ſtrong, but alſo weak perſons, and infants; it chiefly provokes ſweat, if the Patient keeps his bed, and ſometimes it
+<pb n="25" facs="tcp:184764:17"/>works inſenſibly by tranſpiration: for it will quickly diſcover its virtue for the good of the Patient: Moreover, this Powder may be carried more conveniently then the Tincture can: yet let every one take which he likes beſt.</p>
+            </div>
+            <div type="medicine">
+               <head>Of the <hi>Theion</hi> of <hi>Hypocrates.</hi>
+               </head>
+               <p>This is a moſt excellent Medicine againſt the <hi>Falling-ſickneſs, Feavers, Plague, Gout, Leproſie, French Pox, pains</hi> in the <hi>Head, Meazles,</hi> and <hi>Melancholy;</hi> and in one word, it is a commendable Medicine in all kinds of Diſeaſes. In outward maladies alſo, as old Sores and Wounds, it effects much: namely, if the Patient be in<g ref="char:EOLhyphen"/>wardly purged with it: women with child onely excepted, for to them it muſt not be adminiſtred, nor conveniently can it be to any ſuch, who are ſo far ſpent, and weakened with Diſeaſes, that they have not ſtrength enough left to take Phyſick. The uſual Doſe to thoſe that are not above 15 years, is from one Grain to 3, 4, and 5. To thoſe that are of full age, and in the flower of their youth, ſuch a Doſe is to be adminiſtred, as ſhall be able to make them vomit; namely, 6, or 8 Grains; but if the Patient abhors a Vomit, then let him take our Salt of <hi>Antimony,</hi> whereof we ſhall ſpeak hereaf<g ref="char:EOLhyphen"/>ter. To infants, and little children, young of age, the Doſe is from half a Grain, to one Grain. It may alſo be adminiſtred to new<g ref="char:EOLhyphen"/>born children againſt <hi>Convulſions,</hi> and <hi>Epileptick Fitts,</hi> but the Doſe muſt not exceed the bigneſs of the ſeed of a Rape, and it muſt be given in the mothers milk. But if the child be ſtrong, and above half a year old, you may encreaſe the Doſe, ſo as it may ef<g ref="char:EOLhyphen"/>fect ſome viſible operation, and purge out the bad humours; and by this means you may alſo prevent the <hi>Meazles,</hi> and many other Diſeaſes which uſe to afflict children. Of a truth, by this Medicine all Maladies wherewith men are troubled, may be eaſily cured, and at a cheap rate.</p>
+            </div>
+            <div type="medicine">
+               <head>Purging Pills.</head>
+               <p>I have found out a way of preparing certain Pills with the Salt of <hi>Hypocrates,</hi> which purge gently, and with good ſucceſs, the ſame diſtempers that the <hi>Theion</hi> of <hi>Hypocrates</hi> doth, but eſpecially in the
+<pb n="26" facs="tcp:184764:18"/>
+                  <hi>Head-ach, Gout</hi> and <hi>Gravel,</hi> for they purge not onely by Stool, but alſo by Vrine: I have cured many women of other pains in the head with them: They are indeed a moſt excellent and univerſal Purge.</p>
+               <p>The way to take them is this: Take five or ſix, or fewer, (accord<g ref="char:EOLhyphen"/>ing to the age and ſtrength of the Patient) and mingle them with the Pap of a roaſted Apple, and after one Stool, take Veal, or Lamb. broth without any Salt; inſtead whereof, infuſe twenty drops of the <hi>Spirit of Salt,</hi> and you will find an happy iſſue thereof.</p>
+               <p>Beſides the aforeſaid Medicines, there is to be had one other, which comprehends all the virtues of Animals and Vegetables, and it called <hi>Aqua Caelica,</hi> whoſe virtue and uſe is as followeth.</p>
+            </div>
+            <div type="medicine">
+               <head>Of the Virtues and Uſe of <hi>Aqua Coelica.</hi>
+               </head>
+               <p>
+                  <hi>Aqua Coelica</hi> is a Spirit very volatile and piercing, and may be uſed both outwardly and inwardly. Firſt, it is good againſt all ob<g ref="char:EOLhyphen"/>ſtructions and ſtopping; it cleanſeth the bloud: it is excellent good againſt the <hi>Plague,</hi> and all Epidemical diſeaſes, as the <hi>Venereal ma<g ref="char:EOLhyphen"/>lady, Leproſie, Scurvy, Hypochondriacal melancholy, Malignant Feavers,</hi> and all diſeaſes which are diſperſed by ſweating or bath<g ref="char:EOLhyphen"/>ing. It cures all kinds of <hi>Agues,</hi> and the <hi>Cholick,</hi> and all <hi>Winds:</hi> It doth eaſe pains which happen by a fall or bruiſings; it cauſeth Urine and Sweating, and withall expels Malignant humours: it helps the ſtoppings of the Terms, and the ſtifling of the Matrix: it is prevalent in ſtiff obſtructions, the Falling-ſickneſs and Palſie, and in irregular and extraordinary Terms of Women, a moſt admi<g ref="char:EOLhyphen"/>rable remedy.</p>
+               <p>And, in a word, this <hi>Water,</hi> before all other things, is a moſt rare comforter of our connatural humane ſubſtance; becauſe it preſerves from corruption, comforts our ſtrength, and continually reſtores and corroborates our vital Spirits, becauſe it digeſts all crudities, and all ſuperfluities and defects of our body, and brings them to an equal poiſe, and becauſe it cauſeth many good effects, according to the diſpoſition of the Subject to whom it is applied. The Doſe is from four drops to fourty, according to the age and ſtrength of the party taking it, in a glaſs of <hi>Malage</hi> Wine: but for want of ſuch
+<pb n="27" facs="tcp:184764:18"/>Wine, in Ale or Beer, Beſides, it is a moſt excellent remedy againſt the <hi>Gout</hi> in the joynts, and all parts of the body: it extinguiſheth all <hi>Inflammations,</hi> and cures the <hi>Gangrene</hi> and <hi>Ring-worm,</hi> it diſ<g ref="char:EOLhyphen"/>ſolves congealed bloud: it eaſes pains and ſwellings, it ſtrengthens the ſinews: alſo mingled with running or conduit-water, it eaſes the Tooth-atch: mingled with a Glyſter, it kills <hi>Worms,</hi> and mi<g ref="char:EOLhyphen"/>tigateth the <hi>Cholick.</hi> I alſo for many Diſeaſes mingle it with the <hi>Spirit</hi> of <hi>Salt,</hi> to be uſed inwardly.</p>
+               <p>Further, this <hi>Aqua Coelica</hi> is moſt excellent in all griefs and pains of the body, if the parts affected be anointed therewith.</p>
+            </div>
+            <div type="medicine">
+               <head>A Specifick against Catarhs and the Cough.</head>
+               <p>I have by me a moſt pleaſant and cordial Water, which is very ſoveraign and effectual againſt <hi>Catarhs</hi> and <hi>Coughs,</hi> if one or two ſpoonfuls thereof (according to the age and ſtrength of the Patient) be taken every four hours in the day; yea, and by night too, if the Patient be troubled much then: it cures in a very ſhort time (as is to be ſeen in the Twentieth Teſtimony, and Seventh Page of this Book; but yet the <hi>Diaphoretick</hi> Powder is not to be neglected, to the end that the Patient may ſweat twice in the week. I have moſt haply cured many by this <hi>Specifick.</hi>
+               </p>
+               <closer>Laus DEO.</closer>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:184764:19"/>
+               <pb facs="tcp:184764:19"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
